@@ -1,0 +1,11 @@
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.csprojAssemblyReference.cache
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\bin\Debug\netcoreapp2.2\interfacesServicesAluguer.deps.json
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\bin\Debug\netcoreapp2.2\interfacesServicesAluguer.runtimeconfig.json
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\bin\Debug\netcoreapp2.2\interfacesServicesAluguer.runtimeconfig.dev.json
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\bin\Debug\netcoreapp2.2\interfacesServicesAluguer.dll
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\bin\Debug\netcoreapp2.2\interfacesServicesAluguer.pdb
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.dll
+C:\Users\Abdul\source\repos\interfacesServicesAluguer\interfacesServicesAluguer\obj\Debug\netcoreapp2.2\interfacesServicesAluguer.pdb
